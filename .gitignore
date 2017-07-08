@@ -26,7 +26,6 @@ yarn-error.log*
 
 # TODO list
 TODO
-/dist/*
 .tern-port
 [#]*[#]
 :*
